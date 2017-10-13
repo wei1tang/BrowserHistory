@@ -1,0 +1,9 @@
+﻿  BrowserAlgorithm.cpp
+c:\users\win10\documents\visual studio 2017\projects\browserhistory\browserhistory\browseralgorithm.cpp(307): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\browserhistory\browserhistory\browseralgorithm.cpp(321): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\browserhistory\browserhistory\browseralgorithm.cpp(325): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\browserhistory\browserhistory\browseralgorithm.cpp(329): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\win10\documents\visual studio 2017\projects\browserhistory\browserhistory\browseralgorithm.cpp(482): warning C4101: “e”: 未引用的局部变量
+c:\users\win10\documents\visual studio 2017\projects\browserhistory\browserhistory\browseralgorithm.cpp(531): warning C4101: “e”: 未引用的局部变量
+  BrowserHistory.vcxproj -> C:\Users\win10\Documents\Visual Studio 2017\Projects\BrowserHistory\Debug\BrowserHistory.exe
+  BrowserHistory.vcxproj -> C:\Users\win10\Documents\Visual Studio 2017\Projects\BrowserHistory\Debug\BrowserHistory.pdb (Partial PDB)
